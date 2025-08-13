@@ -1,4 +1,4 @@
-[house_scope_project] - Data Analysis Application
+house_scope_project- Data Analysis Application
 =========================================
 ## Overview
 This Python-based application utilizes data analysis libraries such as Pandas, NumPy, and Matplotlib to extract valuable insights from datasets. The application performs various data manipulation, analysis, and visualization tasks, including data cleaning, preprocessing, generating descriptive statistics, hypothesis testing, and visualizing data using different charts and graphs.
